@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @MamiTCC
+- 👀İlgileniyorum... Bilgisayar
+- 🌱Şu anda öğreniyorum...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+MamiTCC/MamiTCC, ✨ özel bir ✨ deposudur çünkü `README.md` (bu dosya) GitHub profilinizde görünür.
+You can click the Preview link to take a look at your changes.
+--->
